@@ -8,7 +8,7 @@ This is a simple train schedule app written using nodejs. It is intended to be u
         #apt install sshpass
 - Docker Pipeline Plugin in Jenkins
 
-- Add docker credential 
+- Add docker credential
         Kind: Username with password
         Username: <docker hub username>
         Password: <password>
